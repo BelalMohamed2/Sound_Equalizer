@@ -40,22 +40,22 @@ To start deployment
 There is different modes : 
 1. Uniform Range Mode: where the total frequency range of the input signal is divided uniformly into 10 equal
 ranges of frequencies, each is controlled by one slider in the UI.
-![main widow](./images%20/freq_mode.png)
+![main widow](./images/freq_mode.png)
 also you can see the spectreogram
-![main widow](./images%20/freq2.png)
+![main widow](./images/freq2.png)
 2. Vowels Mode: where each slider can control the magnitude of specific vowel. You will need to do your own
 research for how the speech vowels are composed of different frequency components/ranges.
-![main widow](./images%20/vowels1.png)
+![main widow](./images/vowels1.png)
 also you can see the spectreogram
-![main widow](./images%20/vowels2.png)
+![main widow](./images/vowels2.png)
 3. Musical Instruments Mode: where each slider can control the magnitude of a specific musical instrument in
 the input music signal.
-![main widow](./images%20/music1.png)
+![main widow](./images/music1.png)
 also you can see the spectreogram
-![main widow](./images%20/music2.png)
+![main widow](./images/music2.png)
 4. Biological Signal Abnormalities: where each slider can control the magnitude of a specific abnormality (e.g.
 ECG arrhythmia) in the input biological signal.
-![main widow](./images%20/medical.png)
+![main widow](./images/medical.png)
 
 
 
