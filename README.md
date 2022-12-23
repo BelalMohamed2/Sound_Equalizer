@@ -34,7 +34,7 @@ To start deployment
 
 ## 🖌️ Design
 
-![main widow](./images%20/mainwindow.png)
+![main widow](./images/mainwindow.png)
 
 ## Features
 There is different modes : 
